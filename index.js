@@ -25,3 +25,9 @@ function sayhello(greating, firstname){
 sayhello ("Hello", "John")
 sayhello ("Hello", "Erick")
 sayhello ("Hello", "Tom")
+
+function add(x, y) {
+  return x + y
+}
+
+add(1, 2)
