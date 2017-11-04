@@ -18,8 +18,10 @@ function add(x, y) {
 
 add(1, 2)
 
-function username(firstname, lastname){
-  console.log (`${firstname}, ${lastname}`)
+function sayhello(greating, firstname){
+  console.log (`${greating}, ${firstname}`)
 }
 
-username("John", "Long")
+sayhello ("Hello", "John")
+sayhello ("Hello", "Erick")
+sayhello ("Hello", "Tom")
