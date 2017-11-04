@@ -13,7 +13,7 @@ a="new word"
 
 
 function add(x, y) {
-  return x + y
+  console.log (x + y)
 }
 
 add(1, 2)
