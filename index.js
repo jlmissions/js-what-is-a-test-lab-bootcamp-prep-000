@@ -18,8 +18,8 @@ function add(x, y) {
 
 add(1, 2)
 
-function myname(firstname, lastname){
+function username(firstname, lastname){
   console.log (`${firstname}, ${lastname}`)
 }
 
-myname("John", "Long")
+username("John", "Long")
