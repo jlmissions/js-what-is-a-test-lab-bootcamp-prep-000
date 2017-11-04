@@ -13,7 +13,7 @@ a="new word"
 
 
 function add(x, y) {
-  returns (x + y)
+  returns x + y
 }
 
 add(1, 2)
