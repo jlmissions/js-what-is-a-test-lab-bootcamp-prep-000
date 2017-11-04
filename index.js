@@ -19,7 +19,7 @@ function add(x, y) {
 add(1, 2)
 
 function name(firstname){
-  console.log(`${firstname}`)
+  console.log `${firstname}`
 }
 
 name("John")
